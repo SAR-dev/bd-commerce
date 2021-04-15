@@ -1,0 +1,8 @@
+{
+  "name": "bd-commerce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8641e765"
+}
